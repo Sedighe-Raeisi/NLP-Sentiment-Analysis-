@@ -41,15 +41,15 @@ Then I used two different neural network for classification. Here is the best re
 -----
  **Accuracy = .77**
 -----     
-# [Bert]()  
+# [Bert](https://github.com/Sedighe-Raeisi/NLP-Sentiment-Analysis-/blob/main/Tweet_Sentiment_BERT.ipynb)  
 I used small bert 128 from tensorflow. 
 I finetuned it on part of data. 
 I add two dens and a classifier layer.    
 
 
-![image](https://user-images.githubusercontent.com/67642255/147139508-d35e77c2-039d-4a51-9b99-21df24aa4d0a.png)
+![image](https://user-images.githubusercontent.com/67642255/147253188-ddfd8c57-f16c-4e4a-abc8-992c0fd8d170.png)
 -----
- **Accuracy = .77**
+ **Accuracy = .78**
 -----
 
 
