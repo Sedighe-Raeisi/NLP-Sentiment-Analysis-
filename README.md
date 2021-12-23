@@ -18,7 +18,7 @@ Converting categorical baribles to neumerics using Sklearn label encoder.
 I converted the tweets to TfIdf vectors using Sklearn.   
 Then, I used a Random Forest classifier to classify the data.    
 
------
+
 ![image](https://user-images.githubusercontent.com/67642255/147194977-01a76101-0ee0-4626-9e25-cc9d31679a81.png)   
 -----
  **Accuracy = .72**
@@ -27,7 +27,7 @@ Then, I used a Random Forest classifier to classify the data.
 I used keras embedding layer. 
 Then I added a Conv1D, Maxpooling1D and 2 more dense layer.     
 
------
+
 ![image](https://user-images.githubusercontent.com/67642255/147195305-6814f3c7-098e-4f26-b511-945906e51cbf.png)   
 -----
  **Accuracy = .76**
@@ -36,7 +36,7 @@ Then I added a Conv1D, Maxpooling1D and 2 more dense layer.
 I used glove embedding. 
 Then I used two different neural network for classification. Here is the best result emong these two networks:   
 
------
+
 ![image](https://user-images.githubusercontent.com/67642255/147195416-14a2f968-9293-4663-bcef-989eafe9515e.png)   
 -----
  **Accuracy = .77**
@@ -46,7 +46,7 @@ I used small bert 128 from tensorflow.
 I finetuned it on part of data. 
 I add two dens and a classifier layer.    
 
-------
+
 ![image](https://user-images.githubusercontent.com/67642255/147139508-d35e77c2-039d-4a51-9b99-21df24aa4d0a.png)
 -----
  **Accuracy = .77**
