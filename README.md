@@ -47,9 +47,9 @@ I finetuned it on part of data.
 I add two dens and a classifier layer.    
 
 
-![image](https://user-images.githubusercontent.com/67642255/147253188-ddfd8c57-f16c-4e4a-abc8-992c0fd8d170.png)
+![image](https://user-images.githubusercontent.com/67642255/147357977-c1c561db-0653-448a-af6e-c531f6a7436d.png)
 -----
- **Accuracy = .78**
+ **Accuracy = .79**
 -----
 
 
